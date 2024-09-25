@@ -8,8 +8,8 @@ The goal is to analyze patterns of drug consumption based on demographic informa
 To build a machine learning model that predicts the Cannabis consumption based on based on demographic information and personality traits..
 
 ### Dataset Overview:
-The dataset contains 17 columns and 1,978 rows.
-The dataset contains the following columns:
+The dataset contains 17 columns and 1,978 rows.   
+The dataset contains the following columns:    
 **1. ID:** A unique identifier for each individual.  
 **2. AgeGroup:** Age range of the individual.   
 **3. Gender:** Gender of the individual (Male/Female).   
